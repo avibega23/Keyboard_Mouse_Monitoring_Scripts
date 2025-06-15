@@ -1,2 +1,4 @@
 pynput
 psutil
+pygetwindow
+pywin32
