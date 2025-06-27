@@ -2,3 +2,4 @@ pynput
 psutil
 pygetwindow
 pywin32
+scapy
